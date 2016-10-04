@@ -2,6 +2,8 @@
 ;(function (global) {
     'use strict';
 
+    console.log('THIS IS A  TEST');
+
 /*
   big.js v3.1.0
   A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic.
